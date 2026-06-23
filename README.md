@@ -1,3 +1,3 @@
 # ansible-eda
 
-This a broken lab.
+This a broken lab. Happy debugging!
